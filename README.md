@@ -5,7 +5,7 @@ Mi direccion de GitHub para este repositorio es la siguiente: [GitHub]()
 
 Hemos reselto tres ejercicios que consisten: el primero en buscar por dicotomia en una tabla; el segundo en detectar si en una lista de lementos hay algun palindromo; y el tercero es el famoso problema de la bandera de Dijkstra.
 
-Ejercicio 1: Busqueda por dicotomia en una tabla ordenada
+**Ejercicio 1: Busqueda por dicotomia en una tabla ordenada**
 
 ```
 while True:
@@ -38,13 +38,13 @@ def buscarentabla(tabla, elemento, indice):
 buscarentabla(tabla, elemento, 0)
 ```
 
-Ejercicio 2: Palindromos
+**Ejercicio 2: Palindromos**
 
 ```
 
 ```
 
-Ejercicio 3: La bandera de Dijkstra
+**Ejercicio 3: La bandera de Dijkstra**
 
 ```
 from random import randint
