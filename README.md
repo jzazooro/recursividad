@@ -1,7 +1,7 @@
 # recursividad
 
-Mi direccion de GitHub para este repositorio es la siguiente: [GitHub]()
-
+Mi direccion de GitHub para este repositorio es la siguiente: [GitHub](https://github.com/jzazooro/recursividad.git)
+https://github.com/jzazooro/recursividad.git
 
 Hemos reselto tres ejercicios que consisten: el primero en buscar por dicotomia en una tabla; el segundo en detectar si en una lista de lementos hay algun palindromo; y el tercero es el famoso problema de la bandera de Dijkstra.
 
